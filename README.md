@@ -5,11 +5,6 @@
 ## About me
 
 -  Currently studying Computer Science in Palma de Mallorca, Spain
-- 
-- 
-- 
-- 
-- 
 <br>
 
   
