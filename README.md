@@ -4,7 +4,9 @@
 
 ## About me
 
--  Currently studying Computer Science in Palma de Mallorca, Spain
+-  I'm currently studying Computer Science in Palma de Mallorca, Spain
+-  I'm currently learning React Native
+-  Interested in Software development and Machine Learning
 <br>
 
   
