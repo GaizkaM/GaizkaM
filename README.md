@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Gaizka 👋</h1>
 </div>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GaizkaM)
+<h1 align="center">![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GaizkaM)</h1>
 
 ## About me
 
