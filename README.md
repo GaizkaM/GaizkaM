@@ -10,7 +10,7 @@
 ## About me
 
 - 💻 I'm currently studying Computer Science in UIB (Palma de Mallorca, Spain)
-- 👨‍💻 I'm currently working as Backend Developer Internship in OmniAccess (ParcBit, Palma de Mallorca, Spain) <br>
+- 👨‍💻 I'm currently working as Backend Developer Internship in OmniAccess (ParcBit, Palma de Mallorca, Spain) <hr>
 - 🧠 I'm currently studying Artificial Intelligence and Automation through UDIA, an online virtual campus focused on technology and innovation
 - 📱 I'm currently self-studying React Native through online resources and personal projects <br>
 - 🚀 Interested in Software development and Machine Learning
