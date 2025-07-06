@@ -18,6 +18,9 @@
 - 🤖 Interested in applying Artificial Intelligence to automate business processes and improve operational efficiency for companies
 <br>
 
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,html,js,css,php,react)](https://skillicons.dev)
   
 ### ⚙️ &nbsp;GitHub Analytics
   
