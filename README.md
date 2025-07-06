@@ -20,7 +20,8 @@
 
 ## Tech Stack
 <h1 align="center">
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,html,js,css,php,react)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,html,js,css,php,react)](https://skillicons.dev)
 </h1>
 ### ⚙️ &nbsp;GitHub Analytics
   
